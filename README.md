@@ -24,13 +24,3 @@
 ⏳ **Year Progress** { ███████████████████████████▁▁▁ } 95.17 % as on ⏰ 09-05-2022.
 
 ---
-
-
-
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-
-----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
-
-Last Edited on: 26/11/2020
